@@ -1,0 +1,279 @@
+repo_name: sidduganeshsid/ReactJS
+report_id: e2f47449256a6195d2619d1bb33d6db8
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-02T05:43:55+00:00'
+requested_by: sidduganeshsid
+provider: github
+branch: main
+detected_tools_count: 20
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/03tailwindprops/package.json
+  detection_source: 03tailwindprops/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/03tailwindprops/package.json
+  detection_source: 03tailwindprops/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/02Counter/package-lock.json
+  detection_source: 02Counter/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/03tailwindprops/package.json
+  detection_source: 03tailwindprops/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/02Counter/package.json
+  detection_source: 02Counter/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS
+  detection_source: Repo Metadata
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/02Counter/package.json
+  detection_source: 02Counter/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/basic/package.json
+  detection_source: basic/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2023-12-31 18:46:38.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.17.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/basic/package-lock.json
+  detection_source: basic/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2023-12-31 18:46:38.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/basic/package-lock.json
+  detection_source: basic/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2023-12-31 18:46:38.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.46
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/02Counter/package-lock.json
+  detection_source: 02Counter/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.2.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/02Counter/package-lock.json
+  detection_source: 02Counter/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.33.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/02Counter/package-lock.json
+  detection_source: 02Counter/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/02Counter/package-lock.json
+  detection_source: 02Counter/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/02Counter/package-lock.json
+  detection_source: 02Counter/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/basic/package-lock.json
+  detection_source: basic/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2023-12-31 18:46:38.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/03tailwindprops/package-lock.json
+  detection_source: 03tailwindprops/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 5.0.10
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/sidduganeshsid/ReactJS/blob/main/02Counter/package-lock.json
+  detection_source: 02Counter/package.json
+  last_updated_by: sidduganeshsid
+  last_updated_on: 2024-01-23 11:35:00.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 5.0.12
